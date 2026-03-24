@@ -3,6 +3,6 @@ This repository contains my solutions to exercises from
 
 Structure
 - chapter_15 - Generating data (visualization)
-- сhapter 16. Loading Data
+- сhapter_16 - Loading Data
 
 Current chapter: Loading Data (16)
