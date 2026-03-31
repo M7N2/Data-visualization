@@ -1,3 +1,4 @@
+# Ability to work with data for 1 day, week, month. Refactoring, automatic header.
 import json
 from plotly.graph_objs import Scattergeo, Layout
 from plotly import offline
