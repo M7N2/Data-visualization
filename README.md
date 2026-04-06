@@ -4,5 +4,6 @@ This repository contains my solutions to exercises from
 Structure
 - chapter_15 - Generating data (visualization)
 - сhapter_16 - Loading Data
+- chapter_17 - Working with API
 
-Current chapter: Loading Data (16)
+Current chapter: working with api (17)
