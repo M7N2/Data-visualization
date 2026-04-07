@@ -5,5 +5,3 @@ Structure
 - chapter_15 - Generating data (visualization)
 - сhapter_16 - Loading Data
 - chapter_17 - Working with API
-
-Current chapter: working with api (17)
